@@ -9,5 +9,11 @@ Features of the app:
 2. User can publish contents to Facebook, Twitter, Instagram
 3. User can choose images, plugs into phone cam.
 
+Build and Run:
+---------------
+Works with Xcode 5 and above.
+Source code in Swift.
+
+
 
 
